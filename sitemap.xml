@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://measurable.github.io/fragments/</loc>
+    <lastmod>2019-10-28T21:30:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://measurable.github.io/archives/articles/ahlfors/</loc>
     <lastmod>2019-10-25T09:08:32+09:00</lastmod>
   </url>
@@ -38,8 +43,73 @@
   </url>
   
   <url>
+    <loc>https://measurable.github.io/tags/1925/</loc>
+    <lastmod>2019-10-14T19:04:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/</loc>
+    <lastmod>2019-10-14T19:04:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/categories/</loc>
+    <lastmod>2019-10-14T19:04:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/tags/heisenberg/</loc>
+    <lastmod>2019-10-14T19:04:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/tags/</loc>
+    <lastmod>2019-10-14T19:04:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/moments/upon-observable/the-breakthrough/</loc>
+    <lastmod>2019-10-14T19:04:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/categories/%ED%91%9C%ED%98%84/</loc>
+    <lastmod>2019-10-14T19:04:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/categories/generic/</loc>
+    <lastmod>2019-10-14T19:00:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/tags/generic/</loc>
+    <lastmod>2019-10-14T19:00:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/moments/upon-observable/weinberg-on-heisenberg/</loc>
+    <lastmod>2019-10-14T19:00:50+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://measurable.github.io/surveys/mechanics-to-math-universe/</loc>
     <lastmod>2019-10-06T23:07:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/tags/maxwell/</loc>
+    <lastmod>2019-10-02T21:19:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/moments/maxwells-term/</loc>
+    <lastmod>2019-10-02T21:19:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/categories/%EB%B0%A9%EB%B2%95/</loc>
+    <lastmod>2019-10-02T21:19:15+09:00</lastmod>
   </url>
   
   <url>
@@ -75,6 +145,21 @@
   <url>
     <loc>https://measurable.github.io/surveys/so-called-decisive/</loc>
     <lastmod>2019-09-23T11:02:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/moments/nasa-2018-touchdown-confirmed/</loc>
+    <lastmod>2019-09-22T23:05:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/moments/cern-2012-we-have-it/</loc>
+    <lastmod>2019-09-22T23:01:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://measurable.github.io/moments/signals-imply-a-big-bang-universe/</loc>
+    <lastmod>2019-09-22T22:50:55+09:00</lastmod>
   </url>
   
   <url>
@@ -118,19 +203,7 @@
   </url>
   
   <url>
-    <loc>https://measurable.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://measurable.github.io/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://measurable.github.io/keywords/</loc>
-  </url>
-  
-  <url>
-    <loc>https://measurable.github.io/tags/</loc>
   </url>
   
 </urlset>
